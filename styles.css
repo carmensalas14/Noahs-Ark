@@ -1,0 +1,43 @@
+#scoreboard{
+    width:250px;
+    height:140px;
+    border: 2px solid black;
+    
+}
+
+p {
+    font-size: 50px;
+    color: purple;
+}
+
+#score{
+    font-size: 100px;
+    font-weight: bold;
+    
+    
+    }
+
+#big {
+    width:500px;
+    height:500px;
+    border:5px;
+    border-color:red;
+    border-style: dotted;
+    position: relative;
+    
+    }
+    
+.animal {
+    position:absolute;
+    top:5px;
+    left: 230px;
+    height: 70px;
+}
+
+#small {
+    width:105px;
+    height:60px;
+    position:absolute;
+    top:470px;
+    left : 250px;
+    }
